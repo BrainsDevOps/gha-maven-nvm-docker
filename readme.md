@@ -19,4 +19,4 @@ Si te interesa aprender más sobre SonarQube o Github Actions, Puedes ver si hay
 * Clona el código en local y ajusta la configuración con tu cuenta de dockerhub / Dockerfile
 * Crea un PAT en Dockerhub para identificarte con los permisos necesarios
 * Añade los secretos necesarios en Github
-* La acción se lanza haciendo push de un tag con el formato "v*.*.*"
+* La acción se lanza haciendo push de un tag con el formato `v*.*.*`
